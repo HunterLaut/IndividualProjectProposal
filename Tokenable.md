@@ -6,35 +6,46 @@ This project is an application that serves as a password saver that will periodi
 ![Use Case Image]()
 
 ## Project Relevance
-
+The Educational Goals this project will cover include and are not limited to:
+- Using OOD (Object Oriented Design)
+- Using TDD (Test Driven Development)
+- Debugging
+- On-the-fly coding
+- Access to database
+- Using software development tools
+- - Project Management
+- - Version Control
+- - Build
+- - Test
+- - Issue Tracking
+- Experience working in small teams
 
 ## Conceptual Design
-_A one-paragraph description of your proposed contribution._
+As this is a ground up project proposal, we will be starting from scratch. Functionality will be develped in pieces. Chosing 1 functionality at a time would enable a gradule process of development. The basics of this project consist of a login screen, accounts page, settings, and other smaller details that would be developed in time.
 
 ## Background
-This project is a new startup. Thehere is a basic prototype that simulates some functionality.
+For detailed background information on this project, refrence [this](https://github.com/HunterLaut/IndividualProjectProposal/blob/master/test%20(1).pdf) document.
+This project is a new startup. There is a basic prototype that simulates some its functionality.
 
-***Prototype Link (designed in Axure)***
-<https://ttzwy1.axshare.com>
+***Test Case Document***    
+Use [this](https://github.com/HunterLaut/IndividualProjectProposal/blob/master/TestCaseAssessmentHMC%20(3).pdf) document to perform tasks that give insight on using the application.
 
-**Login credentials**
+***Login credentials***
 - *Username:* test@test.com
 - *Password:* 12345678
 
-Test Case Document
+***Prototype Link (designed in Axure)***:   
+<https://ttzwy1.axshare.com>   
 
-
-<https://github.com/temple-cis3296/MainPaystationLab>
 
 ***Building***
-- Do now work with NetBeans 8.0.2 (I have tried) use I have used NetBeans 11 on MacOS instead. 
-- Select pom.xml when opening project in NetBeans 11. 
-- First build is taking a long time as it is downloading many things but eventually succeed.
+- Chrome for prototype
+- Netbeans 11 for developing code
 
 **Running**
-- Do not contains a main so do not run the expected way. 
-- Select "Run Tests" from Run menu in NetBeans. 
+- Currently in development
 
 ## Required Resources
 - _Group members competencies_
 - _Hardware and software resource required_
+- _Willingness to code from square one_
